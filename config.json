@@ -141,7 +141,7 @@
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜av资源"
     },
-    "ddzyw: {
+    "ddzyw": {
       "api": "https://api.ddapi.cc/api.php/provide/vod",
       "name": "滴滴资源网"
     },
